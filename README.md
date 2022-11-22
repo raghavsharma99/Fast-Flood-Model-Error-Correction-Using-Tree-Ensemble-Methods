@@ -23,3 +23,6 @@ Target Variable - Difference (m)
 We have decided to pose this uncertainty prediction problem as a classification task where the differences have been binned into 100 classes.
 The predicted class will be transformed back to the difference values and the model performance will be evaluated by comparing the continous target variable instead of the predicted classes.
 
+We have decided to use Tree-ensemble methods for the classification task and aim to experiment with Random Forest Classifier and XGBoost CLassifier.
+
+
